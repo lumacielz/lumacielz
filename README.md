@@ -4,9 +4,9 @@
 
 - 🎓 Mechanics engineering student
 - 📚 I’m currently learning web development with back-end focus
-- 💻 Developer intern
+- 💻 Developer intern at Americanas SA
 - 🧪 Science lover
-- 🤔 I’m looking for help with NodeJs,Java,Python
+- 🤔 I’m looking for help with NodeJs,Java,new Python libraries
 - ♀️ Pronouns: she/her
 <div>
   <a href="https://github.com/lumacielz">
