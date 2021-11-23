@@ -6,7 +6,7 @@
 - 📚 I’m currently learning web development with back-end focus
 - 💻 Jr. Developer at Americanas SA
 - 🧪 Science lover
-- 🤔 I’m looking for help with NodeJs,Java,new Python libraries
+- 🤔 I’m currently studing Go and Kubernetes
 - ♀️ Pronouns: she/her
 <div>
   <a href="https://github.com/lumacielz">
