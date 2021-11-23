@@ -4,7 +4,7 @@
 
 - 🎓 Mechanics engineering student
 - 📚 I’m currently learning web development with back-end focus
-- 💻 Developer intern at Americanas SA
+- 💻 Jr. Developer at Americanas SA
 - 🧪 Science lover
 - 🤔 I’m looking for help with NodeJs,Java,new Python libraries
 - ♀️ Pronouns: she/her
