@@ -2,11 +2,11 @@
 
 
 
-- 🎓 Mechanics engineering student
+- 🎓 Mechanical engineer
 - 📚 I’m currently learning web development with back-end focus
 - 💻 Jr. Developer at Americanas SA
 - 🧪 Science lover
-- 🤔 I’m currently studing Data Structures and Design Patterns
+- 🤔 I’m currently studing Kubernetes and infrastructure basics
 - ♀️ Pronouns: she/her
 <div>
   <a href="https://github.com/lumacielz">
