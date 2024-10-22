@@ -4,7 +4,7 @@
 
 - 🎓 Mechanical engineer
 - 📚 I’m currently learning web development with back-end focus
-- 💻 Jr. Developer at Hurb
+- 💻 Developer at Wellhub
 - 🧪 Science lover
 - 🤔 I’m currently studing Kubernetes and infrastructure basics
 - ♀️ Pronouns: she/her
